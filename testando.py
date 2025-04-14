@@ -1,7 +1,4 @@
 print ("Testando alterações")
-
-
-#observando o reset 
-
+#adicionando um comentário para ver o funcionamento do git reset --hard
 
 
